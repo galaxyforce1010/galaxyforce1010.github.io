@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>To be a better man.</title><link>https://galaxyforce1010.github.io</link><description>Heisenberg.</description><copyright>To be a better man.</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://galaxyforce1010.github.io</link></image><lastBuildDate>Sat, 22 Feb 2025 10:14:09 +0000</lastBuildDate><managingEditor>To be a better man.</managingEditor><ttl>60</ttl><webMaster>To be a better man.</webMaster><item><title>My Workstation.</title><link>https://galaxyforce1010.github.io/post/My%20Workstation..html</link><description>## WorkPC.
+## WorkPC.
 
 
 ```
@@ -70,18 +69,4 @@
 ├── vivaldi
 └── wechat #... IM
 
-```。</description><guid isPermaLink="true">https://galaxyforce1010.github.io/post/My%20Workstation..html</guid><pubDate>Sat, 22 Feb 2025 10:13:30 +0000</pubDate></item><item><title>AboutMe.</title><link>https://galaxyforce1010.github.io/post/AboutMe..html</link><description>~# whoami 
-
-Someone.
-
-~# cat /etc/experience
-
-Digital health.
-
-Advertising.
-
-Game.
-
-~# cat /etc/education
-
-Computer Science.。</description><guid isPermaLink="true">https://galaxyforce1010.github.io/post/AboutMe..html</guid><pubDate>Mon, 20 Jan 2025 05:41:54 +0000</pubDate></item></channel></rss>
+```
